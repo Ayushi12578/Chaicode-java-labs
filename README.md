@@ -1,8 +1,8 @@
-# Chaicode Java Labs
+Chaicode Java Labs
 
 My Java learning journey from scratch through practice labs, assignments, and coding exercises.
 
-## 📚 What I'm Learning
+📚 What I'm Learning
 
 * Java Variables
 * Data Types
@@ -22,7 +22,7 @@ To build a strong foundation in Java by practicing regularly and completing hand
 
 This repository will be updated as I learn new Java concepts and complete more assignments.
 
-Learning Java one concept at a time. 🌱**
+Learning Java one concept at a time. 
 
 
 
