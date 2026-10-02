@@ -1,5 +1,4 @@
 package Looping.ForLoop;
-
 public class PrimeChecker {
     public static void main(String[] args) {
        int number=7;
@@ -22,10 +21,10 @@ public class PrimeChecker {
        else{
         System.out.println("Number is not prime");
        }
+
+    }
     
     }
-    }
-     
 }
 
 

@@ -5,7 +5,7 @@ public class gemotryarea {
             double area= Math.PI*radius*radius;
         return area;
     }
-
+ 
     public static double rectangleArea(double width, double height) {
         double recatangle=height*width;
         return recatangle;
