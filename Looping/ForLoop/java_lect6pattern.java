@@ -2,10 +2,9 @@ package Looping.ForLoop;
 
 import java.util.Scanner;
 
-// butterfly pattern
-public class pattern2 {
+public class java_lect6pattern {
     public static void main(String[] args) {
-        
+        //butterfly
         Scanner sc= new Scanner(System.in);
         int n= sc.nextInt();
         //  upper half pattern
@@ -56,4 +55,5 @@ public class pattern2 {
        
         sc.close();
     }
+    
 }

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class lec4 {
     public static void main(String[] args) {
-          Scanner sc=new Scanner(System.in);
+        //   Scanner pc=new Scanner(System.in);
           //if we use this condition the loop would we infinite
     // for(; ;){
     //     System.out.println("apna college");
@@ -24,6 +24,8 @@ public class lec4 {
 
 //check mark
 
+
+Scanner sc=new Scanner(System.in);
 System.out.print("Enter your choice");
 int choice=sc.nextInt();
 
