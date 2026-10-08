@@ -2,7 +2,7 @@ package Looping.ForLoop;
 
 import java.util.Scanner;
 
-public class soli_rombus {
+public class soli {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
