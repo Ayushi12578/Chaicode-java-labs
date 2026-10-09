@@ -36,14 +36,34 @@ public class Practice_pattern {
         System.out.println();
     }*/
 // Print Inverted Half Pyramid.
-
+/* 
 for(int i=1; i<=n;i++){
     for(int j=1;j<=n-i;j++){
         System.out.print(i+" ");
     }
     System.out.println();
 }
+*/
 
+//Print Pascal’s Triangle.
+
+
+for(int i=1;i<=n;i++){
+    for(int j=1;j<=n-1;j++){
+        System.out.print("");//stating mai space 
+    }
+    int num=1;
+    for(int j=1;j<=i;j++){
+        System.out.print(num+" ");//use for middle space
+        num=num*(i-j)/j;
+    }
+    System.out.println();
+} 
+
+    // Print a hollow Butterfly.
+
+
+    // in next file
 
       sc.close();
     }
