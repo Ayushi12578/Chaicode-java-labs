@@ -26,6 +26,7 @@ public class First_fun {
         int num_2=sc.nextInt();
         System.out.println("Addition is");
         Calculater(num_1, num_2);
+        sc.close();
     }
     
 }
