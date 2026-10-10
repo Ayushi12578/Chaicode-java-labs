@@ -52,7 +52,9 @@ public class Hollow_Butterfly {
                     System.out.print("  ");
                 }
             }
+           
             System.out.println();
         }
+        sc.close();
     }
 }
