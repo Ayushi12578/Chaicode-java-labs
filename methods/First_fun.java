@@ -43,6 +43,7 @@ public static void main(String[] args) {
     System.out.print("Enter Number : ");
     int Mt_2=sc.nextInt();
    System.out.println("poduct ="+ Calculate_Product(Mt_1, Mt_2));
+   sc.close();
 }
 
 
