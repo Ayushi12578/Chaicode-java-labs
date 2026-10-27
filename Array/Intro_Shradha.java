@@ -24,7 +24,7 @@ public class Intro_Shradha {
         Scanner sc= new Scanner(System.in);
         int numbe = sc.nextInt();
         int n[]= new int[numbe];
-
+     //java automatically intialize 0 
         //for input
         for(int i=0;i<numbe;i++){
             n[i]=sc.nextInt();
